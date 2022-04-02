@@ -1,0 +1,19 @@
+{
+  "name": "fbase-login-streame",
+  "version": "1.0.0",
+  "description": "A package to login to firebase and save video in form of streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj6892/fbase-login-streame.git"
+  },
+  "author": "Pankaj Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankaj6892/fbase-login-streame/issues"
+  },
+  "homepage": "https://github.com/pankaj6892/fbase-login-streame#readme"
+}
